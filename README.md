@@ -26,7 +26,7 @@ SSR調査研究 管理者用サンプルアプリケーション
 
 
 
-* [ユースケース図](https://github.com/mixi-inc/iOSTraining/wiki/1.1-Objective-C-%E3%81%AE%E5%9F%BA%E7%A4%8E)
+* [ユースケース図](https://github.com/takanorioo/SSR_Open_Project/wiki/%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9%E5%9B%B3)
 * [ユースケース記述](https://github.com/mixi-inc/iOSTraining/wiki/1.1-Objective-C-%E3%81%AE%E5%9F%BA%E7%A4%8E)
 * [DB設計](https://github.com/mixi-inc/iOSTraining/wiki/1.1-Objective-C-%E3%81%AE%E5%9F%BA%E7%A4%8E)
 
